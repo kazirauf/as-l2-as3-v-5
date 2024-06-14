@@ -39,7 +39,8 @@ Welcome to the Sports Facility Booking Platform, an innovative backend applicati
 - **Validation Library:** Zod
 
 ## Live Demo
-Explore the live application at [Live Server URL](#https://assignment-3-xi-three.vercel.app).
+Explore the live application at [Live Server URL](https://assignment-3-xi-three.vercel.app).
+
 
 ## Getting Started
 ### Prerequisites

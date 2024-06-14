@@ -51,7 +51,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/kazirauf/as-l2-as3-v-5.git
 
 Install dependencies:
 npm install

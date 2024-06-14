@@ -54,16 +54,6 @@ Ensure you have the following installed:
    ```sh
    git clone https://github.com/kazirauf/as-l2-as3-v-5.git
 
-Install dependencies:
-npm install
-Set up environment variables:
-Create a .env file in the root directory and add:
-NODE_ENV=development
-PORT=5000
-DATABASE_URL=your_mongodb_URI
-SALT_ROUND=10
-JWT_ACCESS_TOKEN_SECRET=your_jwt_access_token_secret
-ACCESS_TOKEN_EXPIRES_IN=1d
 Start the server:
 npm run start:dev
 Usage
